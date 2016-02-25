@@ -1,2 +1,2 @@
 # hello-world
-An empty repo
+A repo to demo the basics of branching, merging, push and pull.
